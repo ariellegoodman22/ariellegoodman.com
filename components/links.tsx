@@ -10,18 +10,13 @@ interface Link {
 const links = [
   {
     website: "GitHub",
-    title: "@nathanlevitt",
-    href: "https://github.com/nathanlevitt",
+    title: "@ariellegoodman22",
+    href: "https://github.com/ariellegoodman22",
   },
-  // {
-  //   website: "Twitter",
-  //   title: "@nathanlevitt",
-  //   href: "https://twitter.com/nathanlevitt",
-  // },
   {
     website: "Email",
-    title: "nathan@trudine.com",
-    href: "mailto:nathan@trudine.com",
+    title: "ariellegoodman22@gmail.com",
+    href: "mailto:ariellegoodman22@gmail.com",
   },
 ] satisfies Link[];
 

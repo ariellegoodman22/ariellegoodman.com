@@ -14,46 +14,38 @@ interface Job {
 
 const jobs = [
   {
-    title: "Lead Frontend Developer",
-    company: "Like Minded Labs",
-    location: "Los Angeles, CA • Montreal, QC",
-    startDate: "2022",
+    title: "Marketing Coordinator",
+    company: "New Vision Imaging, Inc.",
+    location: "Los Angeles, CA",
+    startDate: "October 2024",
     endDate: "Present",
     description:
-      "Lead a team of 5 engineers to develop our live over-the-shoulder video conferencing software (TODA Live) across web, desktop, and mobile applications. Collaborate closely with the Head of Product and VP of Tech to transform business objectives into technical direction, as well as deployment frequency.",
-    href: "https://lmmv.com/lml",
-    skills: ["React", "React Native", "Node.js", "TypeScript"],
+    "Support website updates using WordPress to enhance the user experience, ensuring that web pages are visually appealing and feature compelling product descriptions aligned with company standards. Additionally, I coordinate and implement social media strategies for BannerWorld.com and StepRepeat.com, creating engaging content to drive audience engagement and brand visibility.",
+    // href: "",
+    skills: ["WordPress", "HTML/CSS", "Canva"],
   },
   {
-    title: "Founder",
-    company: "TruDine",
-    location: "Los Angeles, CA",
-    startDate: "2020",
-    endDate: "Present",
+    title: "Guest Relations Coordinator",
+    company: "The Beverly Hills Hotel",
+    location: "Beverly Hills, CA",
+    startDate: "October 2023",
+    endDate: "October 2024",
     description:
-      "Founded and evolved an interactive restaurant menu platform, transforming local restaurant marketing by offering immersive digital experiences with detailed dish visuals, ingredient insights, customer reviews, custom domains, themes, an admin portal, and detailed customer analytics. This platform successfully connected thousands of new customers with local eateries. Adapted the business model to create a unique social platform, utilizing menu data to enable users to upload food pictures, write reviews, and discover new dishes nearby. Led a team of six in engineering, marketing, data collection, restaurant outreach, and pitch material creation.",
-    href: "https://trudine.com",
+    "Operated Nexus and Opera software to coordinate and fulfill guest requests, manage room allocations, and facilitate recognition deliveries, consistently demonstrating attention to detail and timely completion. I also exhibited strong written and verbal communication skills by interacting with over 300 customers daily via phone and email. Additionally, I analyzed guest feedback using Nexus and Opera software, enabling data-informed decisions and actionable recommendations to improve guest satisfaction.",
+    // href: "https://www.dorchestercollection.com/los-angeles/the-beverly-hills-hotel",
     skills: [
-      "Next.js",
-      "React",
-      "React Native",
-      "TypeScript",
-      "Swift",
-      "Kotlin",
-      "Node.js",
-      "MySQL",
-      "AWS",
+      ""
     ],
   },
   {
-    title: "Full Stack Developer",
-    company: "I.D. Me Promotions",
-    location: "Los Angeles, CA",
-    startDate: "2017",
-    endDate: "2021",
+    title: "UX Research Coordinator",
+    company: "Robert E. Kennedy Library",
+    location: "San Luis Obispo, CA",
+    startDate: "September 2022",
+    endDate: "June 2023",
     description:
-      "Developed internal and public-facing merchandise websites for California Pizza Kitchen, UCLA Health, ElectraMeccanica, University of California (UCOP). Worked with Stanford Children's Health to design, develop, and deploy holiday popup stores for over 10,000 employees. Managed an external development team to rebuild main promotional products ecommerce website, along with industry suppliers for database integration.",
-    skills: ["React", "Next.js", "Symfony", "Node.js", "TypeScript"],
+    "Led usability testing studies and managed the entire lifecycle, from participant recruitment to analysis, identifying critical pain points that significantly improved product engagement and user satisfaction. I conducted in-depth stakeholder interviews with over 20 participants, uncovering essential user pain points and preferences, which were implemented into the website. These efforts culminated in a detailed set of recommendations that boosted website engagement by 35%.",
+    skills: ["WordPress", "Figma", "SurveyMonkey", "Adobe CC", "Google Analytics"],
   },
 ] satisfies Job[];
 

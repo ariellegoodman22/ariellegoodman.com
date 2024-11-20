@@ -1,4 +1,4 @@
-# nathanlevitt.com
+# arielelgoodman.com
 
 - **Framework**: [Next.js](https://nextjs.org/)
 - **Database**: [Postgres](https://vercel.com/postgres)
@@ -12,10 +12,10 @@
 This application requires Node.js v18.17+.
 
 ```bash
-git clone https://github.com/nathanlevitt/nathanlevitt.com.git
-cd nathanlevitt.com
+git clone https://github.com/ariellegoodman22/ariellegoodman.com.git
+cd ariellegoodman.com
 pnpm install
 pnpm dev
 ```
 
-Create a `.env.local` file similar to [`.env.example`](https://github.com/nathanlevitt/nathanlevitt.com/blob/main/.env.example).
+Create a `.env.local` file similar to [`.env.example`](https://github.com/ariellegoodman22/ariellegoodman.com/blob/main/.env.example).

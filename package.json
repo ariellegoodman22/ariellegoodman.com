@@ -1,6 +1,7 @@
 {
-  "name": "nathanlevitt.com",
+  "name": "ariellegoodman.com",
   "version": "0.1.0",
+  "description": "My personal resume and portfolio site built with Next.js and Tailwind CSS!",
   "private": true,
   "scripts": {
     "dev": "next dev",

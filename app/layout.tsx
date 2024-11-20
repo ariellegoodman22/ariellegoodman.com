@@ -9,17 +9,17 @@ import { Navbar } from "@/components/navbar";
 import { Providers } from "@/components/providers";
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://nathanlevitt.com"),
+  metadataBase: new URL("https://ariellegoodman22.com"),
   title: {
-    default: "Nathan Levitt",
-    template: "%s | Nathan Levitt",
+    default: "Arielle Goodman",
+    template: "%s | Arielle Goodman",
   },
-  description: "Developer, writer, and creator.",
+  description: "Innovator, researcher, and strategist.",
   openGraph: {
-    title: "Nathan Levitt",
-    description: "Developer, writer, and creator.",
-    url: "https://nathanlevitt.com",
-    siteName: "Nathan Levitt",
+    title: "Arielle Goodman",
+    description: "Innovator, researcher, and strategist.",
+    url: "https://www.ariellegoodman.com",
+    siteName: "Arielle Goodman",
     locale: "en_US",
     type: "website",
   },
@@ -35,7 +35,7 @@ export const metadata: Metadata = {
     },
   },
   twitter: {
-    title: "Nathan Levitt",
+    title: "Arielle Goodman",
     card: "summary_large_image",
   },
 };
@@ -51,6 +51,9 @@ export default function RootLayout({
       className={`${GeistSans.variable} ${GeistMono.variable}`}
       suppressHydrationWarning
     >
+      <head>
+        <link rel="icon" href="/favicon.ico" />
+      </head>
       <body className="antialiased text-neutral-900 bg-white dark:text-neutral-100 dark:bg-[#111010]">
         <main className="">
           <Providers>

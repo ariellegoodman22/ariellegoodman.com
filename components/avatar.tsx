@@ -10,10 +10,10 @@ export function Avatar({ className }: { className?: string }) {
       )}
     >
       <Image
-        src="/avatar.jpg"
+        src="/avatar.png"
         width={144}
         height={144}
-        alt="Nathan Levitt"
+        alt="Arielle Goodman"
         className="object-cover"
       />
     </div>
