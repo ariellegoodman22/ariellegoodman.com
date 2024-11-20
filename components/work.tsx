@@ -32,7 +32,7 @@ const jobs = [
     endDate: "October 2024",
     description:
     "Operated Nexus and Opera software to coordinate and fulfill guest requests, manage room allocations, and facilitate recognition deliveries, consistently demonstrating attention to detail and timely completion. I also exhibited strong written and verbal communication skills by interacting with over 300 customers daily via phone and email. Additionally, I analyzed guest feedback using Nexus and Opera software, enabling data-informed decisions and actionable recommendations to improve guest satisfaction.",
-    href: "https://www.dorchestercollection.com/los-angeles/the-beverly-hills-hotel",
+    href: "",
     skills: [
       ""
     ],
@@ -45,6 +45,7 @@ const jobs = [
     endDate: "June 2023",
     description:
     "Led usability testing studies and managed the entire lifecycle, from participant recruitment to analysis, identifying critical pain points that significantly improved product engagement and user satisfaction. I conducted in-depth stakeholder interviews with over 20 participants, uncovering essential user pain points and preferences, which were implemented into the website. These efforts culminated in a detailed set of recommendations that boosted website engagement by 35%.",
+    href: "https://lib.calpoly.edu",
     skills: ["WordPress", "Figma", "SurveyMonkey", "Adobe CC", "Google Analytics"],
   },
 ] satisfies Job[];
