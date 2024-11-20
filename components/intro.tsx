@@ -13,6 +13,9 @@ export function Intro() {
             alt="Arielle Goodman"
             className="object-cover w-full h-full"
             priority={true}
+            style={{
+              filter: "grayscale(100%)", // Apply black-and-white filter
+            }}
           />
         </div>
 

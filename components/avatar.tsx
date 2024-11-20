@@ -15,6 +15,9 @@ export function Avatar({ className }: { className?: string }) {
         height={144}
         alt="Arielle Goodman"
         className="object-cover"
+        style={{
+          filter: "grayscale(100%)", // Apply black-and-white filter
+        }}
       />
     </div>
   );
