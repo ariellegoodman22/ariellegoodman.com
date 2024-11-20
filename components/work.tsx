@@ -21,7 +21,7 @@ const jobs = [
     endDate: "Present",
     description:
     "Support website updates using WordPress to enhance the user experience, ensuring that web pages are visually appealing and feature compelling product descriptions aligned with company standards. Additionally, I coordinate and implement social media strategies for BannerWorld.com and StepRepeat.com, creating engaging content to drive audience engagement and brand visibility.",
-    // href: "",
+    href: "",
     skills: ["WordPress", "HTML/CSS", "Canva"],
   },
   {
@@ -32,7 +32,7 @@ const jobs = [
     endDate: "October 2024",
     description:
     "Operated Nexus and Opera software to coordinate and fulfill guest requests, manage room allocations, and facilitate recognition deliveries, consistently demonstrating attention to detail and timely completion. I also exhibited strong written and verbal communication skills by interacting with over 300 customers daily via phone and email. Additionally, I analyzed guest feedback using Nexus and Opera software, enabling data-informed decisions and actionable recommendations to improve guest satisfaction.",
-    // href: "https://www.dorchestercollection.com/los-angeles/the-beverly-hills-hotel",
+    href: "https://www.dorchestercollection.com/los-angeles/the-beverly-hills-hotel",
     skills: [
       ""
     ],
