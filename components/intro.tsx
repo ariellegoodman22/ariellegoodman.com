@@ -7,15 +7,14 @@ export function Intro() {
       <div className="flex items-center mb-8 space-x-4">
         <div className="relative w-20 h-20 overflow-hidden transition-transform duration-300 rounded-full md:w-24 md:h-24 bg-neutral-50 hover:scale-105">
           <Image
-            src="/avatar.png"
+            src="/ari.png"
             width={144}
             height={144}
             alt="Arielle Goodman"
             className="object-cover w-full h-full"
             priority={true}
-            style={{
-              filter: "grayscale(100%)", // Apply black-and-white filter
-            }}
+            style={{ filter: "none" }}
+            
           />
         </div>
 

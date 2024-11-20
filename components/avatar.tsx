@@ -10,14 +10,11 @@ export function Avatar({ className }: { className?: string }) {
       )}
     >
       <Image
-        src="/avatar.png"
+        src="/ari.png"
         width={144}
         height={144}
         alt="Arielle Goodman"
         className="object-cover"
-        style={{
-          filter: "grayscale(100%)", // Apply black-and-white filter
-        }}
       />
     </div>
   );
