@@ -14,7 +14,7 @@ interface Job {
 
 const jobs = [
   {
-    title: "Marketing Coordinator",
+    title: "Digital Marketing Coordinator (contract)",
     company: "New Vision Imaging, Inc.",
     location: "Los Angeles, CA",
     startDate: "October 2024",
