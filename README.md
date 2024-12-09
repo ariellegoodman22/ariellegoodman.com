@@ -1,4 +1,4 @@
-# arielelgoodman.com
+# ariellegoodman.com
 
 - **Framework**: [Next.js](https://nextjs.org/)
 - **Database**: [Postgres](https://vercel.com/postgres)
