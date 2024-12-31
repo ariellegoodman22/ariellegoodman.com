@@ -20,7 +20,7 @@ export function Intro() {
 
         <div className="flex flex-col">
           <h1 className="text-xl">Arielle Goodman</h1>
-          <p className="text-sm">Digital Marketing Coordinator</p>
+          <p className="text-sm">Junior Product Manager</p>
           <p className="text-sm prose prose-neutral dark:prose-invert">
             <Link href="mailto:ariellegoodman22@gmail.com">ariellegoodman22@gmail.com</Link>
           </p>
@@ -30,7 +30,7 @@ export function Intro() {
       <div>
         <h3>About</h3>
         <p className="text-sm leading-6 prose prose-neutral dark:prose-invert">
-          {`Currently based in Los Angeles, CA, I am an innovative and results-oriented Digital Marketing Coordinator with a diverse background in design, computer science, and the humanities. 
+          {`Currently based in Los Angeles, CA, I am an innovative and results-oriented Junior Product Manager with a diverse background in design, computer science, and the humanities. 
           As a creative and nonlinear thinker, I excel at crafting exceptional user experiences through unique problem-solving strategies. At New Vision Imaging, Inc., I enhance `}
           <Link href="https://www.steprepeat.com" target="_blank">
           StepRepeat.com 
