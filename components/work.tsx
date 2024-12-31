@@ -20,7 +20,7 @@ const jobs = [
     startDate: "March 2024",
     endDate: "Present",
     description:
-    "Support website updates using WordPress to enhance the user experience, ensuring that web pages are visually appealing and feature compelling product descriptions aligned with company standards. Additionally, I coordinate and implement social media strategies for BannerWorld.com and StepRepeat.com, creating engaging content to drive audience engagement and brand visibility.",
+    "Lead website updates using WordPress to optimize user experience, ensuring web pages are visually compelling, feature high-quality product descriptions, and align with company standards. Develop and execute social media strategies to strengthen brand visibility and audience engagement for BannerWorld.com and StepRepeat.com. Collaborate cross-functionally with stakeholders to align digital experiences with broader product and marketing goals.",
     href: "https://www.steprepeat.com",
     skills: ["WordPress", "HTML/CSS", "Canva"],
   },
