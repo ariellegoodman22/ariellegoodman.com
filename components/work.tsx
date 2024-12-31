@@ -14,10 +14,10 @@ interface Job {
 
 const jobs = [
   {
-    title: "Digital Marketing Coordinator (contract)",
+    title: "Junior Product Manager",
     company: "New Vision Imaging, Inc.",
     location: "Los Angeles, CA",
-    startDate: "October 2024",
+    startDate: "March 2024",
     endDate: "Present",
     description:
     "Support website updates using WordPress to enhance the user experience, ensuring that web pages are visually appealing and feature compelling product descriptions aligned with company standards. Additionally, I coordinate and implement social media strategies for BannerWorld.com and StepRepeat.com, creating engaging content to drive audience engagement and brand visibility.",
