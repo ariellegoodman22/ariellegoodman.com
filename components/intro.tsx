@@ -39,7 +39,7 @@ export function Intro() {
           <Link href="https://www.bannerworld.com" target="_blank" rel="noopener noreferrer">
             BannerWorld.com
           </Link>
-          {` leading website updates through WordPress and collaborating with stakeholders to improve functionality and user experience. Additionally, I craft strategies that bridge product and marketing efforts, driving engagement and enhancing brand visibility. I am passionate about applying creative problem-solving and data-driven insights to deliver impactful digital solutions and am eager to advance my career in product management as a Digital Innovator.`}
+          {`, leading website updates through WordPress and collaborating with stakeholders to improve functionality and user experience. Additionally, I craft strategies that bridge product and marketing efforts, driving engagement and enhancing brand visibility. I am passionate about applying creative problem-solving and data-driven insights to deliver impactful digital solutions and am eager to advance my career in product management as a Digital Innovator.`}
         </p>
       </div>
     </div>
