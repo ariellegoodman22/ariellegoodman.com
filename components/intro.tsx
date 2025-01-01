@@ -30,7 +30,8 @@ export function Intro() {
       <div>
         <h3>About</h3>
         <p className="text-sm leading-6 prose prose-neutral dark:prose-invert">
-          {`Currently based in Los Angeles, CA, I am an innovative and results-oriented Junior Product Manager with a strong foundation in design, computer science, and the humanities. At New Vision Imaging, Inc., I manage and optimize digital experiences for `}
+          {`Currently based in Los Angeles, CA, I am an innovative and results-oriented Digital Marketing Coordinator with a diverse background in design, computer science, and the humanities. 
+          As a creative and nonlinear thinker, I excel at crafting exceptional user experiences through unique problem-solving strategies. At New Vision Imaging, Inc., I enhance `}
           <Link href="https://www.steprepeat.com" target="_blank">
           StepRepeat.com 
           </Link>
@@ -38,7 +39,8 @@ export function Intro() {
           <Link href="https://www.bannerworld.com" target="_blank">
           BannerWorld.com
           </Link>
-          {`, leading eading website updates through WordPress and collaborating with stakeholders to improve functionality and user experience. Additionally, I craft strategies that bridge product and marketing efforts, driving engagement and enhancing brand visibility. I am passionate about applying creative problem-solving and data-driven insights to deliver impactful digital solutions and am eager to advance my career in product management as a Digital Innovator.`}
+          {` by managing website updates via WordPress and executing effective social media strategies.  
+          I am excited to advance my career by seeking new opportunities to apply my skills and further develop as a Digital Innovator.`}
         </p>
       </div>
     </div>
