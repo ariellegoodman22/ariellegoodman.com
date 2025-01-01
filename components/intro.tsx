@@ -12,9 +12,8 @@ export function Intro() {
             height={144}
             alt="Arielle Goodman"
             className="object-cover w-full h-full"
-            priority={true}
+            priority
             style={{ filter: "none" }}
-            
           />
         </div>
 
@@ -22,25 +21,28 @@ export function Intro() {
           <h1 className="text-xl">Arielle Goodman</h1>
           <p className="text-sm">Digital Marketing Coordinator</p>
           <p className="text-sm prose prose-neutral dark:prose-invert">
-            <Link href="mailto:ariellegoodman22@gmail.com">ariellegoodman22@gmail.com</Link>
+            <Link href="mailto:ariellegoodman22@gmail.com">
+              ariellegoodman22@gmail.com
+            </Link>
           </p>
         </div>
       </div>
-      
+
       <div>
         <h3>About</h3>
         <p className="text-sm leading-6 prose prose-neutral dark:prose-invert">
-          {'Currently based in Los Angeles, CA, I am an innovative and results-oriented Junior Product Manager with a strong foundation in design, computer science, and the humanities.  As a creative and nonlinear thinker, I excel at crafting exceptional user experiences through unique problem-solving strategies. At New Vision Imaging, Inc., I manage and optimize digital experiences for `}
-          <Link href="https://www.steprepeat.com" target="_blank">
-          StepRepeat.com 
+          {'Currently based in Los Angeles, CA, I am an innovative and results-oriented Junior Product Manager with a strong foundation in design, computer science, and the humanities.  As a creative and nonlinear thinker, I excel at crafting exceptional user experiences through unique problem-solving strategies. At New Vision Imaging, Inc., I manage and optimize digital experiences for '}
+          <Link href="https://www.steprepeat.com" target="_blank" rel="noopener noreferrer">
+            StepRepeat.com
           </Link>
-          {` and `} 
-          <Link href="https://www.bannerworld.com" target="_blank">
-          BannerWorld.com
+          {` and `}
+          <Link href="https://www.bannerworld.com" target="_blank" rel="noopener noreferrer">
+            BannerWorld.com
           </Link>
-          {`leading website updates through WordPress and collaborating with stakeholders to improve functionality and user experience. Additionally, I craft strategies that bridge product and marketing efforts, driving engagement and enhancing brand visibility. I am passionate about applying creative problem-solving and data-driven insights to deliver impactful digital solutions and am eager to advance my career in product management as a Digital Innovator.`}
+          {` leading website updates through WordPress and collaborating with stakeholders to improve functionality and user experience. Additionally, I craft strategies that bridge product and marketing efforts, driving engagement and enhancing brand visibility. I am passionate about applying creative problem-solving and data-driven insights to deliver impactful digital solutions and am eager to advance my career in product management as a Digital Innovator.`}
         </p>
       </div>
     </div>
   );
 }
+
