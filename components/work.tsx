@@ -44,7 +44,7 @@ const jobs = [
     startDate: "September 2022",
     endDate: "June 2023",
     description:
-    "Led usability testing studies and managed the entire lifecycle, from participant recruitment to analysis, identifying critical pain points that significantly improved product engagement and user satisfaction. I conducted in-depth stakeholder interviews with over 20 participants, uncovering essential user pain points and preferences, which were implemented into the website. These efforts culminated in a detailed set of recommendations that boosted website engagement by 35%.",
+    "Led usability testing studies and managed the entire lifecycle, from participant recruitment to analysis, identifying critical pain points that significantly improved product engagement and user satisfaction. Through the results of our usability testing, our team was able to achieve a 33% increase in task success rates and a 24% reduction in task completion times, resulting in a more intuitive digital experience.",
     href: "https://lib.calpoly.edu",
     skills: ["WordPress", "Figma", "SurveyMonkey", "Adobe CC", "Google Analytics"],
   },
